@@ -1,4 +1,4 @@
-package FicherosJava;
+package FicherosJava.EjercicioUno;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -10,6 +10,7 @@ public class EjercicioUno {
     static final Logger LOGGER = LogManager.getRootLogger();
 
     static String rutaFicheroOriginal = "src/FicherosJava/";
+    public static final int NUM_BYTES = 32;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -27,14 +28,15 @@ public class EjercicioUno {
 
     public static void escribirFicheroByte(File fichero, String nombre) {
 
+        byte[] bloqueBytes = new byte[NUM_BYTES];
         try {
+
             FileInputStream fileInput  = new FileInputStream(fichero);
             FileOutputStream fileOutput = new FileOutputStream("src/FicherosJava/copia" + nombre);
             int bytesLeidos;
-            while ((bytesLeidos = fileInput.read()) != -1) {
+            while ((bytesLeidos = fileInput.read(bloqueBytes)) != -1) {
                 System.out.print((char) bytesLeidos);
-                fileOutput.write(bytesLeidos);
-
+                fileOutput.write(bloqueBytes, 0, bytesLeidos);
             }
             fileInput.close();
             fileOutput.close();

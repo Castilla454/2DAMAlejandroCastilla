@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/FicherosJava/EjercicioDos/ficheros/mergeado.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FicherosJava/fichero1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Submarino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Submarino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FicherosJava/EjercicioDos/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/EjercicioDos/EjercicioDos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FicherosJava/copiaFichero1.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Castilla454&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Castilla454/2DAMAlejandroCastilla.git&quot;,
+    &quot;accountId&quot;: &quot;49978e25-5c18-4bfd-b2b8-ca3cb425149e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -38,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.EjercicioDos.executor": "Run",
+    "Application.EjercicioUno.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -73,7 +84,8 @@
       <updated>1726225949948</updated>
       <workItem from="1726225950863" duration="2568000" />
       <workItem from="1726470303122" duration="23000" />
-      <workItem from="1726471198082" duration="5256000" />
+      <workItem from="1726471198082" duration="5657000" />
+      <workItem from="1726642520017" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -83,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726228468953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1726476889997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726476889997</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1726643096993</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726643096993</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

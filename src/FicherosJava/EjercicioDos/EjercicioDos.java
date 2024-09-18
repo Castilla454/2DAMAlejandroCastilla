@@ -1,41 +1,49 @@
 package FicherosJava.EjercicioDos;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
 public class EjercicioDos {
+    static final Logger LOGGER = LogManager.getRootLogger();
+
     public static void main(String[] args) {
         File directorio = new File("src/FicherosJava/EjercicioDos/ficheros");
-        ArrayList<File> ficheros = new ArrayList<>(List.of(directorio.listFiles()));
-        Iterator<File> iterator = ficheros.iterator();
 
-        while (iterator.hasNext()) {
-            System.out.println(iterator.next());
+
+        if (mergearFicheros(directorio)) {
+            System.out.println("Ficheros mergeados correctamente");
+
+        } else {
+            System.out.println("Los ficheros no se pudieron mergear correctamente");
         }
-
-        mergearFicheros(ficheros);
     }
 
 
-    public static void mergearFicheros(ArrayList<File> ficheros) {
-        try {
-            FileWriter fileWriter = new FileWriter("src/FicherosJava/EjercicioDos/ficheros/mergeado.txt");
+    public static boolean mergearFicheros(File directorio) {
+        File[] ficheros = directorio.listFiles();
+
+        try (FileWriter fileMergeado = new FileWriter("src/FicherosJava/EjercicioDos/ficheros/mergeado.txt")) {
             int caracter;
-
-            for (int i = 0; i < ficheros.size(); i++) {
-                FileReader fileReader = new FileReader(ficheros.get(i));
-
-
+            for (File file : ficheros) {
+                try (FileReader fileReader = new FileReader(file)) {
+                    while ((caracter = fileReader.read()) != -1) {
+                        fileMergeado.write(caracter);
+                    }
+                }
             }
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        } catch (FileNotFoundException e) {
+            LOGGER.error("ERROR " + "\n" + "El fichero no ha sido encontrado" + e.getMessage());
+            return Boolean.FALSE;
+        } catch (IOException ex) {
+            LOGGER.error(ex.getMessage());
+            return Boolean.FALSE;
         }
-
+        return Boolean.TRUE;
     }
 }
 

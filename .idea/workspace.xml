@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
+      <change afterPath="$PROJECT_DIR$/src/ActividadCuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FicherosJava/modulosguardados.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/EjercicioDos/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/EjercicioDos/EjercicioDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/copiaFichero1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FicherosJava/fichero1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/fichero1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +50,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActividadCuatro.executor": "Run",
     "Application.EjercicioDos.executor": "Run",
+    "Application.EjercicioTres.executor": "Run",
     "Application.EjercicioUno.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +90,11 @@
       <workItem from="1726225950863" duration="2568000" />
       <workItem from="1726470303122" duration="23000" />
       <workItem from="1726471198082" duration="5657000" />
-      <workItem from="1726642520017" duration="1245000" />
+      <workItem from="1726642520017" duration="2102000" />
+      <workItem from="1726644955487" duration="5000" />
+      <workItem from="1726660907687" duration="571000" />
+      <workItem from="1726661692331" duration="641000" />
+      <workItem from="1726738220473" duration="2814000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -111,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726643096993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1726644009480</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726644009480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

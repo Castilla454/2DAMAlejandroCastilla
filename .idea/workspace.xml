@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ActividadTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ActividadCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FicherosJava/properties.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FicherosJava/properties2.cnf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjercicioTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/copiafichero1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/copiafichero1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/modulosguardados.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/modulosguardados.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ActividadCinco.executor": "Run",
     "Application.ActividadCuatro.executor": "Run",
-    "Application.ActividadTres.executor": "Run",
-    "Application.EjercicioCuatro.executor": "Run",
     "Application.EjercicioDos.executor": "Run",
     "Application.EjercicioTres.executor": "Run",
     "Application.EjercicioUno.executor": "Run",
@@ -64,7 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Descargas/log4j-api-2.23.1.jar",
+    "last_opened_file_path": "C:/Users/alumno/Downloads/log4j-core-2.23.1.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,8 +73,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +94,6 @@
       <workItem from="1726660907687" duration="571000" />
       <workItem from="1726661692331" duration="641000" />
       <workItem from="1726738220473" duration="2814000" />
-      <workItem from="1726744371327" duration="4887000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />

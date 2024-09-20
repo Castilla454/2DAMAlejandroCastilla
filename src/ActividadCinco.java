@@ -13,7 +13,7 @@ public class ActividadCinco {
     public static void main(String[] args) {
 
         mostrarPropiedades(RUTA_FICHERO);
-        cargarPropiedades(RUTA_FICHERO2);
+        cargarPropiedades(RUTA_FICHERO);
     }
 
 
@@ -57,7 +57,7 @@ public class ActividadCinco {
             prop.put("Color", "naranja");
             prop.put("Valor", "19.5");
             prop.put("Procedencia", "China");
-            prop.store(new FileOutputStream(new File(nombreFichero)), "Holis");
+            prop.store(new FileOutputStream(new File(nombreFichero),true), "");
 
 
             prop.list(System.out);

@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j_core_2_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ActividadTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioCuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioCinco.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjercicioTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/copiafichero1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/copiafichero1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FicherosJava/modulosguardados.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FicherosJava/modulosguardados.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,31 +44,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ActividadCuatro.executor": "Run",
-    "Application.ActividadTres.executor": "Run",
-    "Application.EjercicioCuatro.executor": "Run",
-    "Application.EjercicioDos.executor": "Run",
-    "Application.EjercicioTres.executor": "Run",
-    "Application.EjercicioUno.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Descargas/log4j-api-2.23.1.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActividadCuatro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ActividadTres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioCuatro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioDos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioTres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioUno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Descargas/log4j-api-2.23.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -100,7 +93,9 @@
       <workItem from="1726660907687" duration="571000" />
       <workItem from="1726661692331" duration="641000" />
       <workItem from="1726738220473" duration="2814000" />
-      <workItem from="1726744371327" duration="4887000" />
+      <workItem from="1726744371327" duration="5079000" />
+      <workItem from="1726772401997" duration="77000" />
+      <workItem from="1727024179022" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -134,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726644009480</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1726761229826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726761229826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

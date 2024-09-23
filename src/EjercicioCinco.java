@@ -79,15 +79,12 @@ public class EjercicioCinco implements Serializable {
 
 
             for (Modulo moduloActual : modulos) {
-
-
                 bw.write(moduloActual.getNombre() + ";" + moduloActual.getNumHoras() + ";" + moduloActual.getNota());
                 bw.newLine();
-
             }
         } catch (IOException e) {
 
-            LOGGER.error(e);
+            LOGGER.error("Error a la hora de escribir datos");
         }
 
     }
@@ -107,7 +104,7 @@ public class EjercicioCinco implements Serializable {
 
         } catch (IOException e) {
 
-            LOGGER.error(e);
+            LOGGER.error("Error a la hora de leer datos");
 
         }
 

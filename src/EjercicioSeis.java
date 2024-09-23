@@ -1,4 +1,6 @@
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
@@ -15,6 +17,8 @@ import java.io.File;
 import java.io.IOException;
 
 public class EjercicioSeis {
+
+    static final Logger LOGGER = LogManager.getRootLogger();
 
     public static void main(String[] args) {
         try {
@@ -73,7 +77,7 @@ public class EjercicioSeis {
             leerYMostrarXML("modulos.xml");
 
         } catch (ParserConfigurationException | javax.xml.transform.TransformerException e) {
-            e.printStackTrace();
+            LOGGER.error("Error a la hora de crear el fichero XML");
         }
     }
 
@@ -108,7 +112,7 @@ public class EjercicioSeis {
             }
 
         } catch (Exception e) {
-            e.printStackTrace();
+            LOGGER.error("Error a la hora de mostrar el fichero XML");
         }
     }
 }

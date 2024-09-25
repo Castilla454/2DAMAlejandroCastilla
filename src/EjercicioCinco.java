@@ -2,20 +2,23 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 public class EjercicioCinco implements Serializable {
     private static final long serialVersionUID = 5126642041982425623L;
-    final static String rutaModulosGuardados = "src/FicherosJava/modulosguardados.txt";
+    static Path filePath = Paths.get( "src/FicherosJava/modulosguardados.txt");
+    static Path csvPath = Paths.get( "src/FicherosJava/modulosguardados.csv");
 
     static final Logger LOGGER = LogManager.getRootLogger();
 
     static ArrayList<Modulo> modulos = new ArrayList<Modulo>();
 
     public static void main(String[] args) {
-        File ficheroCSV = new File("src/FicherosJava/modulosguardados.csv");
         String[] moduls = {"Accés a Dades", "Programació de serveis i processos", "Desenvolupament d'interfícies", "Programació Multimédia i dispositiud mòbils", "Sistemes de Gestió Empresarial", "Empresa i iniciativa emprenedora"};
         int[] hores = {6, 3, 6, 5, 5, 3};
         double[] notes = {8.45, 9.0, 8.0, 7.34, 8.2, 7.4};
@@ -25,17 +28,17 @@ public class EjercicioCinco implements Serializable {
 
         }
 
-        guardarDatos();
-        cargarDatos();
+        guardarDatos(filePath);
+        cargarDatos(filePath);
         leerModulos();
-        crearFicheroCsv(modulos, ficheroCSV);
-        leerFicheroCSV(ficheroCSV);
+        crearFicheroCsv(modulos, csvPath);
+        leerFicheroCSV(csvPath);
 
     }
 
-    public static void guardarDatos() {
+    public static void guardarDatos(Path filePath) {
         System.out.println("Guardando datos...");
-        File file = new File(rutaModulosGuardados);
+        File file = new File(filePath.toString());
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(file))) {
             oos.writeObject(modulos);
 
@@ -46,9 +49,9 @@ public class EjercicioCinco implements Serializable {
         }
     }
 
-    public static void cargarDatos() {
+    public static void cargarDatos(Path filePath) {
         System.out.println("Cargando datos...");
-        File file = new File(rutaModulosGuardados);
+        File file = new File(String.valueOf(filePath));
 
         try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(file))) {
             modulos = (ArrayList<Modulo>) ois.readObject();
@@ -70,8 +73,8 @@ public class EjercicioCinco implements Serializable {
 
     }
 
-    public static void crearFicheroCsv(List<Modulo> modulos, File fichero) {
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(fichero))) {
+    public static void crearFicheroCsv(List<Modulo> modulos, Path filePath) {
+        try (BufferedWriter bw = Files.newBufferedWriter(filePath)) {
 
 
             bw.write("Modulo;Horas;Notas");
@@ -89,9 +92,9 @@ public class EjercicioCinco implements Serializable {
 
     }
 
-    public static void leerFicheroCSV(File fichero) {
+    public static void leerFicheroCSV(Path filePath) {
 
-        try (BufferedReader br = new BufferedReader(new FileReader(fichero))) {
+        try (BufferedReader br = Files.newBufferedReader(filePath)) {
 
             String linea;
             while ((linea = br.readLine()) != null) {

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-public class Personaje {
+public class Personaje implements Comparable<Personaje> {
     private String name;
     private String height;
     private String mass;
@@ -43,6 +43,11 @@ public class Personaje {
         this.edited = edited;
         this.url = url;
     }
+
+    public Personaje() {
+        super();
+    }
+
 
     public String getName() {
         return name;
@@ -206,4 +211,14 @@ public class Personaje {
                 ", url='" + url + '\'' +
                 '}';
     }
+
+    @Override
+    public int compareTo(Personaje o) {
+        int resultado = Integer.compare(o.getFilms().size(), (this.films.size()));
+        if (resultado == 0) {
+            resultado = CharSequence.compare(this.name, o.getName());
+        }
+        return resultado;
+    }
 }
+

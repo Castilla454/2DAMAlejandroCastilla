@@ -3,20 +3,47 @@ package EjercicioOcho;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
+import java.util.Objects;
 
 public class PersonajesWrapper {
 
-@SerializedName("personatges")
-    static private List<Personaje> personajes;
+  private List<Personaje> personatges;
 
-public static List<Personaje> getPersonajes() {
-    return personajes;
+  public PersonajesWrapper(){
+      super();
+  }
+
+  public PersonajesWrapper(List<Personaje> personatges){
+
+      this.personatges=personatges;
+  }
+
+public  List<Personaje> getPersonajes() {
+    return personatges;
 }
 
-    public void setPersonajes(List<Personaje> personajes) {
-    this.personajes = personajes;
+    public void setPersonajes(List<Personaje> personatges) {
+    this.personatges = personatges;
     }
 
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        PersonajesWrapper that = (PersonajesWrapper) o;
+        return Objects.equals(personatges, that.personatges);
+    }
 
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(personatges);
+    }
+
+    @Override
+    public String toString() {
+        return "PersonajesWrapper{" +
+                "personatges=" + personatges +
+                '}';
+    }
 }

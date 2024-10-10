@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/Ejemplo1_Conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/EjercicioUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_09_2024_9_05_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_09_2024_9_05__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/ConexionBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/Ejemplo2_Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/JDBC_create_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_09_2024_19_13_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_09_2024_19_13__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_09_2024_11_38_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_09_2024_11_38__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UnidadDos/Ejemplo1_Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/Ejemplo1_Conexion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +57,14 @@
     "Application.ActividadCinco.executor": "Run",
     "Application.ActividadCuatro.executor": "Run",
     "Application.Ejemplo1_Conexion.executor": "Run",
+    "Application.Ejemplo2_Conexion.executor": "Run",
     "Application.EjercicioCinco.executor": "Run",
     "Application.EjercicioDos.executor": "Run",
     "Application.EjercicioOcho.executor": "Run",
     "Application.EjercicioSeis.executor": "Run",
     "Application.EjercicioTres.executor": "Run",
     "Application.EjercicioUno.executor": "Run",
+    "Application.JDBC_create_table.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ResourceBundleExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,6 +84,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alumno\IdeaProjects\2DAMAlejandroCastilla\src\main\resources" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,6 +121,7 @@
       <workItem from="1727346162430" duration="3460000" />
       <workItem from="1727417600428" duration="201000" />
       <workItem from="1727432579638" duration="5277000" />
+      <workItem from="1728555715304" duration="2876000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -279,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727433950461</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1728550509521</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1728550509521</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

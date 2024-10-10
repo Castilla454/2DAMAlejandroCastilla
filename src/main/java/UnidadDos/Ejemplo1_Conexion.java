@@ -27,6 +27,9 @@ public class Ejemplo1_Conexion {
                 System.out.println("Empleado: " + rs.getString("first_name") + " " + rs.getString("last_name"));
             }
 
+            stmt.close();
+            connection.close();
+
         } catch (SQLException e) {
             LOGGER.error("Error connecting database", e);
         }

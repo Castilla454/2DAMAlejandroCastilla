@@ -3,6 +3,7 @@ package UnidadDos;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.sql.SQLException;
 import java.sql.Statement;
 
 public class EjemploInsertar {
@@ -34,8 +35,8 @@ public class EjemploInsertar {
            int nFil =  stmt.executeUpdate(sql);
 
             System.out.println(nFil + " Filas insertadas.");
-        } catch (Exception e) {
-            LOGGER.error("Error al consultar empleados", e);
+        } catch (SQLException e) {
+            LOGGER.error("SQL código específico", e);
         }
     }
 }

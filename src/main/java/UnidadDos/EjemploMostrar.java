@@ -20,7 +20,7 @@ public class EjemploMostrar {
     }
 
     private static void mostrarDatos(ConexionBD conexion) {
-        String sql = "SELECT * FROM CLIENTES";
+        String sql = "SELECT * FROM CLIENTES1";
 
         if(conexion == null) {
             LOGGER.error("No hay conexión con base de datos, no se puede ejecutar la consulta.");

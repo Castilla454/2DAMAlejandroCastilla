@@ -24,7 +24,7 @@ public class JDBC_create_table {
 
             Statement s = c.createStatement();
 
-            s.execute("CREATE TABLE CLIENTES (DNI CHAR(9) NOT NULL, APELLIDOS VARCHAR(32) NOT NULL, CP CHAR(5), PRIMARY KEY(DNI))");
+            s.execute("CREATE TABLE CLIENTES1 (DNI CHAR(9) NOT NULL, APELLIDOS VARCHAR(32) NOT NULL, CP CHAR(5), PRIMARY KEY(DNI))");
 
         } catch (SQLException e) {
             LOGGER.error("Error connecting database", e);

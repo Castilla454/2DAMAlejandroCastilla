@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_14_10_2024_18_09_[Changes]" date="1728922183729" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_18_09_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 14/10/2024 18:09 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/UnidadDos/EjemploMostrar.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/main/java/FicherosJava/properties.cnf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/UnidadDos/EjercicioUno.class" />
+    <option name="AFTER_PATH" value="target/classes/UnidadDos/EjercicioUno.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_18_09_[Changes]/EjercicioUno.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/main/java/FicherosJava/copiagoku.jpg" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/main/java/FicherosJava/properties2.cnf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/main/java/FicherosJava/goku.jpg" />
+  </binary>
+</changelist>

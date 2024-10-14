@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class EjercicioUno {
     static final Logger LOGGER = LogManager.getRootLogger();
 
-    static String rutaFicheroOriginal = "src/FicherosJava/";
+    static String rutaFicheroOriginal = "src/main/java/FicherosJava/";
     public static final int NUM_BYTES = 32;
 
     public static void main(String[] args) {
@@ -32,7 +32,7 @@ public class EjercicioUno {
         try {
 
             FileInputStream fileInput  = new FileInputStream(fichero);
-            FileOutputStream fileOutput = new FileOutputStream("src/FicherosJava/copia" + nombre);
+            FileOutputStream fileOutput = new FileOutputStream("src/main/java/FicherosJava/copia" + nombre);
             int bytesLeidos;
             while ((bytesLeidos = fileInput.read(bloqueBytes)) != -1) {
                 System.out.print((char) bytesLeidos);

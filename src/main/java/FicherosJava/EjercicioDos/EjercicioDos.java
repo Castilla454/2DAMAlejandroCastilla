@@ -12,7 +12,7 @@ public class EjercicioDos {
     static final Logger LOGGER = LogManager.getRootLogger();
 
     public static void main(String[] args) {
-        File directorio = new File("src/FicherosJava/EjercicioDos/ficheros");
+        File directorio = new File("src/main/java/FicherosJava/EjercicioDos/ficheros");
 
 
         if (mergearFicheros(directorio)) {
@@ -27,7 +27,7 @@ public class EjercicioDos {
     public static boolean mergearFicheros(File directorio) {
         File[] ficheros = directorio.listFiles();
 
-        try (FileWriter fileMergeado = new FileWriter("src/FicherosJava/EjercicioDos/ficheros/mergeado.txt")) {
+        try (FileWriter fileMergeado = new FileWriter("src/main/java/FicherosJava/EjercicioDos/ficheros/mergeado.txt")) {
             int caracter;
             for (File file : ficheros) {
                 try (FileReader fileReader = new FileReader(file)) {

@@ -5,62 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/FicherosEjerTres/definitivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/FicherosEjerTres/ejemplo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/junte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnidadDos/JDBC_clave_autogenerada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/employees.he85nQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/employees.he85nQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2024_9_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_10_2024_9_55__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioDos/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioDos/EjercicioDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioUno/EjercicioUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioUno/EjercicioUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/EjercicioOcho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/Personaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/PersonajesWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioSeis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioDos/EjercicioDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioUno/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Modulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ResourceBundleExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Submarino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/ConexionBD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/CrearTablaFactura.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnidadDos/CrearTablaFactura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo1_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo2_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploInsertar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploMostrar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_create_table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/adios.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/hello.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/hola.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/SW.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/characters.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/mergeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiagoku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/goku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties2.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/sinNumeros_copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,9 +41,6 @@
     &quot;accountId&quot;: &quot;49978e25-5c18-4bfd-b2b8-ca3cb425149e&quot;
   }
 }</component>
-  <component name="JvmLoggingSettingsStorage">
-    <option name="loggerId" value="Log4j2" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -101,44 +50,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ActividadCinco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ActividadCuatro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CrearTablaFactura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo1_Conexion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo2_Conexion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploCommit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploInsertar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploInsertarComplejo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploMostrar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioCinco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioCuatro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioDos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioOcho.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioSeis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioTres.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioUno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JDBC_create_table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResourceBundleExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alumno/Downloads/log4j-core-2.23.1.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActividadCinco.executor": "Run",
+    "Application.ActividadCuatro.executor": "Run",
+    "Application.CrearTablaFactura.executor": "Run",
+    "Application.Ejemplo1_Conexion.executor": "Run",
+    "Application.Ejemplo2_Conexion.executor": "Run",
+    "Application.EjemploCommit.executor": "Run",
+    "Application.EjemploInsertar.executor": "Run",
+    "Application.EjemploInsertarComplejo.executor": "Run",
+    "Application.EjemploMostrar.executor": "Run",
+    "Application.EjercicioCinco.executor": "Run",
+    "Application.EjercicioCuatro.executor": "Run",
+    "Application.EjercicioDos.executor": "Run",
+    "Application.EjercicioOcho.executor": "Run",
+    "Application.EjercicioSeis.executor": "Run",
+    "Application.EjercicioTres.executor": "Run",
+    "Application.EjercicioUno.executor": "Run",
+    "Application.JDBC_clave_autogenerada.executor": "Run",
+    "Application.JDBC_create_table.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ResourceBundleExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alumno/Downloads/log4j-core-2.23.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alumno\IdeaProjects\2DAMAlejandroCastilla\src\main\java\UnidadDos" />
@@ -179,6 +129,10 @@
       <workItem from="1727432579638" duration="5277000" />
       <workItem from="1728555715304" duration="5928000" />
       <workItem from="1728890379274" duration="5411000" />
+      <workItem from="1728973494893" duration="121000" />
+      <workItem from="1728973851252" duration="17000" />
+      <workItem from="1729145609912" duration="4588000" />
+      <workItem from="1729247329541" duration="2897000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />

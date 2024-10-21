@@ -5,62 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/EjercicioUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/FicherosEjerTres/definitivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/FicherosEjerTres/ejemplo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/junte.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioDos/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioDos/EjercicioDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioUno/EjercicioUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FicherosJava/EjercicioUno/EjercicioUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/EjercicioOcho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/Personaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/PersonajesWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioSeis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioDos/EjercicioDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioUno/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Modulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ResourceBundleExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Submarino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/ConexionBD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/CrearTablaFactura.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnidadDos/CrearTablaFactura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo1_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo2_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploInsertar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploMostrar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_create_table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/adios.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/hello.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PracticaExamen/Ficheros/hola.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/SW.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/characters.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/mergeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiagoku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/goku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties2.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/sinNumeros_copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioSiete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioSiete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_clave_autogenerada.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_clave_autogenerada.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -412,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728890856808</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1729527559421</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729527559421</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class ActividadCinco {
     static final Logger LOGGER = LogManager.getRootLogger();
-    public static final String RUTA_FICHERO = "src/FicherosJava/properties.cnf";
+    public static final String RUTA_FICHERO = "src/main/java/FicherosJava/properties.cnf";
     public static final String RUTA_FICHERO2 = "src/FicherosJava/properties2.cnf";
 
     public static void main(String[] args) {

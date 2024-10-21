@@ -25,7 +25,7 @@ public class EjercicioTres {
 
           while ((linea = bufferedReader.readLine()) != null) {
 
-              bufferedWriter.write(numLinea + ". " + linea);
+              bufferedWriter.write(numLinea + "." + linea);
               bufferedWriter.newLine();
               numLinea++;
 

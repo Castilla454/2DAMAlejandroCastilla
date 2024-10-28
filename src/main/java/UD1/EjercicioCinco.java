@@ -13,8 +13,8 @@ import java.util.List;
 
 public class EjercicioCinco implements Serializable {
     private static final long serialVersionUID = 5126642041982425623L;
-    static Path filePath = Paths.get( "src/FicherosJava/modulosguardados.txt");
-    static Path csvPath = Paths.get( "src/FicherosJava/modulosguardados.csv");
+    static Path filePath = Paths.get( "src/main/java/FicherosJava/modulosguardados.txt");
+    static Path csvPath = Paths.get( "src/main/java/FicherosJava/modulosguardados.csv");
 
     static final Logger LOGGER = LogManager.getRootLogger();
 
@@ -100,7 +100,6 @@ public class EjercicioCinco implements Serializable {
 
             String linea;
             while ((linea = br.readLine()) != null) {
-
 
                 System.out.println(linea);
 

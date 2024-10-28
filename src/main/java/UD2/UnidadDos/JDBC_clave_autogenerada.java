@@ -8,6 +8,7 @@ import java.sql.*;
 public class JDBC_clave_autogenerada {
     private static final Logger LOGGER = LogManager.getRootLogger();
 
+
     public static void main(String[] args) {
 
         ConexionBD conexion = new ConexionBD();

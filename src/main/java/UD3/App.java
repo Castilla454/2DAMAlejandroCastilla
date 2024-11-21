@@ -24,8 +24,8 @@ public class App {
         user2.setUserMessage("Hello World de Juan");
 
         em.getTransaction().begin();
-        em.merge(user);
-        em.merge(user2);
+        em.persist(user);
+        em.persist(user2);
         em.getTransaction().commit();
 
         em.close();

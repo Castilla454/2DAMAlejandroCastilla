@@ -4,95 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_18_18_[Changes]/ActividadCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_18_18_[Changes]/EjercicioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_18_18_[Changes]/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_18_18_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_10_2024_18_18__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD1/PracticaExamen/EjercicioTresParteDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD1/PracticaExamen/EjercicioTresParteDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/ConexionBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/ConexionBD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/CrearTablaFactura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/CrearTablaFactura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/Ejemplo1_Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/Ejemplo1_Conexion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/Ejemplo2_Conexion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/Ejemplo2_Conexion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjemploCommit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjemploCommit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjemploInsertar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjemploInsertar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjemploInsertarComplejo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjemploInsertarComplejo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjemploMostrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjemploMostrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioCuatro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioCuatro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioDos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioDos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioSeis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioSeis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioSiete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioSiete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioTres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/EjercicioUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/EjercicioUno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/JDBC_clave_autogenerada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/JDBC_clave_autogenerada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD2/UnidadDos/JDBC_create_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD2/JDBC_create_table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ActividadTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/EjercicioOcho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/Personaje.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioOcho/PersonajesWrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioSeis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioDos/EjercicioDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/FicherosJava/EjercicioUno/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Modulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PracticaExamen/EjercicioDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PracticaExamen/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PracticaExamen/EjercicioTresParteDos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PracticaExamen/EjercicioTresParteDos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PracticaExamen/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ResourceBundleExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Submarino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/ConexionBD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/CrearTablaFactura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo1_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/Ejemplo2_Conexion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploCommit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploInsertar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploInsertarComplejo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjemploMostrar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioCuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioUno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_clave_autogenerada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/JDBC_create_table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/SW.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/EjercicioOcho/characters.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/fichero3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/EjercicioDos/ficheros/mergeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/copiagoku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/goku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/modulosguardados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/properties2.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/FicherosJava/sinNumeros_copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/Ficheros/adios.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/Ficheros/hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/Ficheros/hola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/FicherosEjerTres/definitivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/FicherosEjerTres/ejemplo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/PracticaExamen/junte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/languages/mensajes_es.properties" beforeDir="false" />
-    </list>
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +129,7 @@
       <workItem from="1730112509766" duration="9000" />
       <workItem from="1730115700592" duration="13000" />
       <workItem from="1730115958040" duration="625000" />
-      <workItem from="1732188329336" duration="794000" />
+      <workItem from="1732188329336" duration="1123000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -467,7 +379,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730104133350</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732189235059</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732189235059</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

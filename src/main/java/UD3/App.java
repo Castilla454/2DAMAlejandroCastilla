@@ -15,12 +15,12 @@ public class App {
 
 
         User user = new User();
-        user.setId(1);
+
         user.setUserName("Pepe");
         user.setUserMessage("Hello World de Pepe");
 
         User user2 = new User();
-        user2.setId(2);
+
         user2.setUserName("Juan");
         user2.setUserMessage("Hello World de Juan");
 

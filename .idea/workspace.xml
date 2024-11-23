@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Direccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/User1.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/User1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UD3/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UD3/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioSeis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UnidadDos/EjercicioSiete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/META-INF/orm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/orm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +51,7 @@
   "keyToString": {
     "Application.ActividadCinco.executor": "Run",
     "Application.ActividadCuatro.executor": "Run",
+    "Application.App.executor": "Run",
     "Application.App1.executor": "Run",
     "Application.CrearTablaFactura.executor": "Run",
     "Application.Ejemplo1_Conexion.executor": "Run",
@@ -90,7 +80,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
@@ -99,6 +89,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\2DAMAlejandroCastilla\src\main\resources" />
       <recent name="C:\Users\alumno\IdeaProjects\2DAMAlejandroCastilla\src\main\java\UnidadDos" />
       <recent name="C:\Users\alumno\IdeaProjects\2DAMAlejandroCastilla\src\main\resources" />
     </key>
@@ -378,7 +369,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729527559421</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732358892405</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1732358892405</updated>
+    </task>
+    <task id="LOCAL-00032" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732358907870</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732358907870</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

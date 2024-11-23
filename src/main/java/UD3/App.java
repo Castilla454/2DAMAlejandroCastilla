@@ -13,6 +13,7 @@ public class App {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("default");
         EntityManager em = emf.createEntityManager();
 
+
         User user = new User();
         user.setId(1);
         user.setUserName("Pepe");

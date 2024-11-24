@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/AtributosExtra/Address3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/AtributosExtra/App7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/AtributosExtra/Person5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/PersonAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/AtributosExtra/PersonAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/PersonAddressId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/AtributosExtra/PersonAddressId.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +33,12 @@
     &quot;assignee&quot;: &quot;Castilla454&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Castilla454/2DAMAlejandroCastilla.git",
-    "accountId": "54456d8c-caf3-4650-9d88-93a86f1ac544"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Castilla454/2DAMAlejandroCastilla.git&quot;,
+    &quot;accountId&quot;: &quot;54456d8c-caf3-4650-9d88-93a86f1ac544&quot;
   }
-}]]></component>
+}</component>
   <component name="JvmLoggingSettingsStorage">
     <option name="loggerId" value="Log4j2" />
   </component>
@@ -44,51 +51,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ActividadCinco.executor": "Run",
-    "Application.ActividadCuatro.executor": "Run",
-    "Application.App.executor": "Run",
-    "Application.App1.executor": "Run",
-    "Application.App2.executor": "Run",
-    "Application.App3.executor": "Run",
-    "Application.App4.executor": "Run",
-    "Application.App5.executor": "Run",
-    "Application.App6.executor": "Run",
-    "Application.CrearTablaFactura.executor": "Run",
-    "Application.Ejemplo1_Conexion.executor": "Run",
-    "Application.Ejemplo2_Conexion.executor": "Run",
-    "Application.EjemploCommit.executor": "Run",
-    "Application.EjemploInsertar.executor": "Run",
-    "Application.EjemploInsertarComplejo.executor": "Run",
-    "Application.EjemploMostrar.executor": "Run",
-    "Application.EjercicioCinco.executor": "Run",
-    "Application.EjercicioCuatro.executor": "Run",
-    "Application.EjercicioDos.executor": "Run",
-    "Application.EjercicioOcho.executor": "Run",
-    "Application.EjercicioSeis.executor": "Run",
-    "Application.EjercicioTres.executor": "Run",
-    "Application.EjercicioUno.executor": "Run",
-    "Application.JDBC_create_table.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ResourceBundleExample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alumno/Downloads/log4j-core-2.23.1.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActividadCinco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ActividadCuatro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.App6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CrearTablaFactura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo1_Conexion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejemplo2_Conexion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploCommit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploInsertar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploInsertarComplejo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjemploMostrar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioCinco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioCuatro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioDos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioOcho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioSeis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioTres.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioUno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JDBC_create_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResourceBundleExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alumno/Downloads/log4j-core-2.23.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\IdeaProjects\2DAMAlejandroCastilla\src\main\resources" />
@@ -131,6 +138,7 @@
       <workItem from="1728555715304" duration="5928000" />
       <workItem from="1728890379274" duration="5411000" />
       <workItem from="1732444201612" duration="8301000" />
+      <workItem from="1732462755752" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -420,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732452474218</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732453828631</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1732453828631</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

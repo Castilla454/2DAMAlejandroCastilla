@@ -1,4 +1,4 @@
-package UD3.Asociaciones.ManyToMany.BiDireccionales;
+package UD3.Asociaciones.ManyToMany.BiDireccionales.AtributosExtra;
 
 import java.io.Serializable;
 import java.util.Objects;

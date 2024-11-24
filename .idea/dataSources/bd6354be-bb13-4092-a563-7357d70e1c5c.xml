@@ -715,61 +715,61 @@
     <collation id="181" parent="1" name="uca1400_esperanto_nopad_ai_ci"/>
     <collation id="182" parent="1" name="uca1400_esperanto_nopad_ai_cs"/>
     <collation id="183" parent="1" name="uca1400_esperanto_nopad_as_ci"/>
-    <collation id="184" parent="1" name="uca1400_lithuanian_nopad_as_cs"/>
-    <collation id="185" parent="1" name="uca1400_nopad_ai_ci"/>
-    <collation id="186" parent="1" name="uca1400_nopad_ai_cs"/>
-    <collation id="187" parent="1" name="uca1400_nopad_as_ci"/>
-    <collation id="188" parent="1" name="uca1400_nopad_as_cs"/>
-    <collation id="189" parent="1" name="uca1400_persian_ai_ci"/>
-    <collation id="190" parent="1" name="uca1400_persian_ai_cs"/>
-    <collation id="191" parent="1" name="uca1400_esperanto_nopad_as_cs"/>
-    <collation id="192" parent="1" name="uca1400_estonian_ai_ci"/>
-    <collation id="193" parent="1" name="uca1400_estonian_ai_cs"/>
-    <collation id="194" parent="1" name="uca1400_estonian_as_ci"/>
-    <collation id="195" parent="1" name="uca1400_estonian_as_cs"/>
-    <collation id="196" parent="1" name="uca1400_estonian_nopad_ai_ci"/>
-    <collation id="197" parent="1" name="uca1400_estonian_nopad_ai_cs"/>
-    <collation id="198" parent="1" name="uca1400_estonian_nopad_as_ci"/>
-    <collation id="199" parent="1" name="uca1400_estonian_nopad_as_cs"/>
-    <collation id="200" parent="1" name="uca1400_german2_ai_ci"/>
-    <collation id="201" parent="1" name="uca1400_german2_ai_cs"/>
-    <collation id="202" parent="1" name="uca1400_german2_as_ci"/>
-    <collation id="203" parent="1" name="uca1400_german2_as_cs"/>
-    <collation id="204" parent="1" name="uca1400_german2_nopad_ai_ci"/>
-    <collation id="205" parent="1" name="uca1400_german2_nopad_ai_cs"/>
-    <collation id="206" parent="1" name="uca1400_german2_nopad_as_ci"/>
-    <collation id="207" parent="1" name="uca1400_german2_nopad_as_cs"/>
-    <collation id="208" parent="1" name="uca1400_hungarian_ai_ci"/>
-    <collation id="209" parent="1" name="uca1400_hungarian_ai_cs"/>
-    <collation id="210" parent="1" name="uca1400_hungarian_as_ci"/>
-    <collation id="211" parent="1" name="uca1400_hungarian_as_cs"/>
-    <collation id="212" parent="1" name="uca1400_hungarian_nopad_ai_ci"/>
-    <collation id="213" parent="1" name="uca1400_hungarian_nopad_ai_cs"/>
-    <collation id="214" parent="1" name="uca1400_hungarian_nopad_as_ci"/>
-    <collation id="215" parent="1" name="uca1400_hungarian_nopad_as_cs"/>
-    <collation id="216" parent="1" name="uca1400_icelandic_ai_ci"/>
-    <collation id="217" parent="1" name="uca1400_icelandic_ai_cs"/>
-    <collation id="218" parent="1" name="uca1400_icelandic_as_ci"/>
-    <collation id="219" parent="1" name="uca1400_icelandic_as_cs"/>
-    <collation id="220" parent="1" name="uca1400_icelandic_nopad_ai_ci"/>
-    <collation id="221" parent="1" name="uca1400_icelandic_nopad_ai_cs"/>
-    <collation id="222" parent="1" name="uca1400_icelandic_nopad_as_ci"/>
-    <collation id="223" parent="1" name="uca1400_icelandic_nopad_as_cs"/>
-    <collation id="224" parent="1" name="uca1400_latvian_ai_ci"/>
-    <collation id="225" parent="1" name="uca1400_latvian_ai_cs"/>
-    <collation id="226" parent="1" name="uca1400_latvian_as_ci"/>
-    <collation id="227" parent="1" name="uca1400_latvian_as_cs"/>
-    <collation id="228" parent="1" name="uca1400_latvian_nopad_ai_ci"/>
-    <collation id="229" parent="1" name="uca1400_latvian_nopad_ai_cs"/>
-    <collation id="230" parent="1" name="uca1400_latvian_nopad_as_ci"/>
-    <collation id="231" parent="1" name="uca1400_latvian_nopad_as_cs"/>
-    <collation id="232" parent="1" name="uca1400_lithuanian_ai_ci"/>
-    <collation id="233" parent="1" name="uca1400_lithuanian_ai_cs"/>
-    <collation id="234" parent="1" name="uca1400_lithuanian_as_ci"/>
-    <collation id="235" parent="1" name="uca1400_lithuanian_as_cs"/>
-    <collation id="236" parent="1" name="uca1400_lithuanian_nopad_ai_ci"/>
-    <collation id="237" parent="1" name="uca1400_lithuanian_nopad_ai_cs"/>
-    <collation id="238" parent="1" name="uca1400_lithuanian_nopad_as_ci"/>
+    <collation id="184" parent="1" name="uca1400_esperanto_nopad_as_cs"/>
+    <collation id="185" parent="1" name="uca1400_estonian_ai_ci"/>
+    <collation id="186" parent="1" name="uca1400_estonian_ai_cs"/>
+    <collation id="187" parent="1" name="uca1400_estonian_as_ci"/>
+    <collation id="188" parent="1" name="uca1400_estonian_as_cs"/>
+    <collation id="189" parent="1" name="uca1400_estonian_nopad_ai_ci"/>
+    <collation id="190" parent="1" name="uca1400_estonian_nopad_ai_cs"/>
+    <collation id="191" parent="1" name="uca1400_estonian_nopad_as_ci"/>
+    <collation id="192" parent="1" name="uca1400_estonian_nopad_as_cs"/>
+    <collation id="193" parent="1" name="uca1400_german2_ai_ci"/>
+    <collation id="194" parent="1" name="uca1400_german2_ai_cs"/>
+    <collation id="195" parent="1" name="uca1400_german2_as_ci"/>
+    <collation id="196" parent="1" name="uca1400_german2_as_cs"/>
+    <collation id="197" parent="1" name="uca1400_german2_nopad_ai_ci"/>
+    <collation id="198" parent="1" name="uca1400_german2_nopad_ai_cs"/>
+    <collation id="199" parent="1" name="uca1400_german2_nopad_as_ci"/>
+    <collation id="200" parent="1" name="uca1400_german2_nopad_as_cs"/>
+    <collation id="201" parent="1" name="uca1400_hungarian_ai_ci"/>
+    <collation id="202" parent="1" name="uca1400_hungarian_ai_cs"/>
+    <collation id="203" parent="1" name="uca1400_hungarian_as_ci"/>
+    <collation id="204" parent="1" name="uca1400_hungarian_as_cs"/>
+    <collation id="205" parent="1" name="uca1400_hungarian_nopad_ai_ci"/>
+    <collation id="206" parent="1" name="uca1400_hungarian_nopad_ai_cs"/>
+    <collation id="207" parent="1" name="uca1400_hungarian_nopad_as_ci"/>
+    <collation id="208" parent="1" name="uca1400_hungarian_nopad_as_cs"/>
+    <collation id="209" parent="1" name="uca1400_icelandic_ai_ci"/>
+    <collation id="210" parent="1" name="uca1400_icelandic_ai_cs"/>
+    <collation id="211" parent="1" name="uca1400_icelandic_as_ci"/>
+    <collation id="212" parent="1" name="uca1400_icelandic_as_cs"/>
+    <collation id="213" parent="1" name="uca1400_icelandic_nopad_ai_ci"/>
+    <collation id="214" parent="1" name="uca1400_icelandic_nopad_ai_cs"/>
+    <collation id="215" parent="1" name="uca1400_icelandic_nopad_as_ci"/>
+    <collation id="216" parent="1" name="uca1400_icelandic_nopad_as_cs"/>
+    <collation id="217" parent="1" name="uca1400_latvian_ai_ci"/>
+    <collation id="218" parent="1" name="uca1400_latvian_ai_cs"/>
+    <collation id="219" parent="1" name="uca1400_latvian_as_ci"/>
+    <collation id="220" parent="1" name="uca1400_latvian_as_cs"/>
+    <collation id="221" parent="1" name="uca1400_latvian_nopad_ai_ci"/>
+    <collation id="222" parent="1" name="uca1400_latvian_nopad_ai_cs"/>
+    <collation id="223" parent="1" name="uca1400_latvian_nopad_as_ci"/>
+    <collation id="224" parent="1" name="uca1400_latvian_nopad_as_cs"/>
+    <collation id="225" parent="1" name="uca1400_lithuanian_ai_ci"/>
+    <collation id="226" parent="1" name="uca1400_lithuanian_ai_cs"/>
+    <collation id="227" parent="1" name="uca1400_lithuanian_as_ci"/>
+    <collation id="228" parent="1" name="uca1400_lithuanian_as_cs"/>
+    <collation id="229" parent="1" name="uca1400_lithuanian_nopad_ai_ci"/>
+    <collation id="230" parent="1" name="uca1400_lithuanian_nopad_ai_cs"/>
+    <collation id="231" parent="1" name="uca1400_lithuanian_nopad_as_ci"/>
+    <collation id="232" parent="1" name="uca1400_lithuanian_nopad_as_cs"/>
+    <collation id="233" parent="1" name="uca1400_nopad_ai_ci"/>
+    <collation id="234" parent="1" name="uca1400_nopad_ai_cs"/>
+    <collation id="235" parent="1" name="uca1400_nopad_as_ci"/>
+    <collation id="236" parent="1" name="uca1400_nopad_as_cs"/>
+    <collation id="237" parent="1" name="uca1400_persian_ai_ci"/>
+    <collation id="238" parent="1" name="uca1400_persian_ai_cs"/>
     <collation id="239" parent="1" name="uca1400_persian_as_ci"/>
     <collation id="240" parent="1" name="uca1400_persian_as_cs"/>
     <collation id="241" parent="1" name="uca1400_persian_nopad_ai_ci"/>
@@ -1399,314 +1399,1167 @@
     </collation>
     <schema id="510" parent="1" name="empresa">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-11-23.10:06:08</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-11-24.12:15:37</LastIntrospectionLocalTimestamp>
       <CollationName>latin1_swedish_ci</CollationName>
     </schema>
-    <schema id="511" parent="1" name="information_schema">
-      <CollationName>utf8mb3_general_ci</CollationName>
-    </schema>
-    <schema id="512" parent="1" name="mysql">
+    <schema id="511" parent="1" name="hibernate">
       <CollationName>latin1_swedish_ci</CollationName>
     </schema>
-    <schema id="513" parent="1" name="performance_schema">
+    <schema id="512" parent="1" name="information_schema">
       <CollationName>utf8mb3_general_ci</CollationName>
     </schema>
-    <schema id="514" parent="1" name="sys">
+    <schema id="513" parent="1" name="mysql">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="514" parent="1" name="performance_schema">
       <CollationName>utf8mb3_general_ci</CollationName>
     </schema>
-    <user id="515" parent="1" name="mariadb.sys">
+    <schema id="515" parent="1" name="sys">
+      <CollationName>utf8mb3_general_ci</CollationName>
+    </schema>
+    <user id="516" parent="1" name="mariadb.sys">
       <Host>localhost</Host>
     </user>
-    <user id="516" parent="1" name="root"/>
-    <user id="517" parent="1" name="root">
+    <user id="517" parent="1" name="root"/>
+    <user id="518" parent="1" name="root">
       <Host>127.0.0.1</Host>
     </user>
-    <user id="518" parent="1" name="root">
-      <Host>::1</Host>
-    </user>
     <user id="519" parent="1" name="root">
-      <Host>localhost</Host>
+      <Host>::1</Host>
     </user>
     <user id="520" parent="1" name="root">
       <Host>desktop-dgnaoiq</Host>
     </user>
-    <routine id="521" parent="510" name="obtener_apellidos">
+    <user id="521" parent="1" name="root">
+      <Host>localhost</Host>
+    </user>
+    <routine id="522" parent="510" name="obtener_apellidos">
       <Definer>root@localhost</Definer>
       <RoutineKind>function</RoutineKind>
       <SourceTextLength>237</SourceTextLength>
     </routine>
-    <table id="522" parent="510" name="another_user">
+    <table id="523" parent="510" name="another_user">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="523" parent="510" name="another_user_seq">
+    <table id="524" parent="510" name="another_user_seq">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="524" parent="510" name="clientes">
+    <table id="525" parent="510" name="clientes">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="525" parent="510" name="clientes1">
+    <table id="526" parent="510" name="clientes1">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="526" parent="510" name="facturas">
+    <table id="527" parent="510" name="facturas">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="527" parent="510" name="lineas_factura">
+    <table id="528" parent="510" name="lineas_factura">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <table id="528" parent="510" name="user">
+    <table id="529" parent="510" name="person">
       <Engine>InnoDB</Engine>
       <CollationName>latin1_swedish_ci</CollationName>
     </table>
-    <argument id="529" parent="521">
+    <table id="530" parent="510" name="person1">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="531" parent="510" name="person1_phone1">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="532" parent="510" name="person1_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="533" parent="510" name="person2">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="534" parent="510" name="person2_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="535" parent="510" name="person_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="536" parent="510" name="phone">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="537" parent="510" name="phone1">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="538" parent="510" name="phone1_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="539" parent="510" name="phone2">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="540" parent="510" name="phone2_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="541" parent="510" name="phone3">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="542" parent="510" name="phone3_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="543" parent="510" name="phone4">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="544" parent="510" name="phone4_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="545" parent="510" name="phone_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="546" parent="510" name="phonedetails">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="547" parent="510" name="phonedetails2">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="548" parent="510" name="phonedetails2_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="549" parent="510" name="phonedetails_seq">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="550" parent="510" name="user">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="551" parent="510" name="userorm">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <argument id="552" parent="522">
       <ArgumentDirection>R</ArgumentDirection>
       <StoredType>varchar(255)|0s</StoredType>
     </argument>
-    <argument id="530" parent="521" name="dni">
+    <argument id="553" parent="522" name="dni">
       <Position>1</Position>
       <StoredType>varchar(10)|0s</StoredType>
     </argument>
-    <column id="531" parent="522" name="birthDate">
+    <column id="554" parent="523" name="birthDate">
       <Position>1</Position>
       <StoredType>date|0s</StoredType>
     </column>
-    <column id="532" parent="522" name="CP_FACTURACION">
+    <column id="555" parent="523" name="CP_FACTURACION">
       <Position>2</Position>
       <StoredType>varchar(5)|0s</StoredType>
     </column>
-    <column id="533" parent="522" name="codigoPostal">
+    <column id="556" parent="523" name="codigoPostal">
       <NotNull>1</NotNull>
       <Position>3</Position>
       <StoredType>varchar(5)|0s</StoredType>
     </column>
-    <column id="534" parent="522" name="id">
+    <column id="557" parent="523" name="id">
       <NotNull>1</NotNull>
       <Position>4</Position>
       <StoredType>bigint(20)|0s</StoredType>
     </column>
-    <column id="535" parent="522" name="CALLE_FACTURACION">
+    <column id="558" parent="523" name="CALLE_FACTURACION">
       <Position>5</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="536" parent="522" name="POBLACION_FACTURACION">
+    <column id="559" parent="523" name="POBLACION_FACTURACION">
       <Position>6</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="537" parent="522" name="PROVINCIA_FACTURACION">
+    <column id="560" parent="523" name="PROVINCIA_FACTURACION">
       <Position>7</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="538" parent="522" name="poblacion">
+    <column id="561" parent="523" name="poblacion">
       <NotNull>1</NotNull>
       <Position>8</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="539" parent="522" name="provincia">
+    <column id="562" parent="523" name="provincia">
       <NotNull>1</NotNull>
       <Position>9</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="540" parent="522" name="userName">
+    <column id="563" parent="523" name="userName">
       <Position>10</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="541" parent="522" name="via">
+    <column id="564" parent="523" name="via">
       <NotNull>1</NotNull>
       <Position>11</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <index id="542" parent="522" name="PRIMARY">
+    <index id="565" parent="523" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="543" parent="522" name="PRIMARY">
+    <key id="566" parent="523" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="544" parent="523" name="next_not_cached_value">
+    <column id="567" parent="524" name="next_not_cached_value">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="545" parent="523" name="minimum_value">
+    <column id="568" parent="524" name="minimum_value">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="546" parent="523" name="maximum_value">
+    <column id="569" parent="524" name="maximum_value">
       <NotNull>1</NotNull>
       <Position>3</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="547" parent="523" name="start_value">
+    <column id="570" parent="524" name="start_value">
       <Comment>start value when sequences is created or value if RESTART is used</Comment>
       <NotNull>1</NotNull>
       <Position>4</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="548" parent="523" name="increment">
+    <column id="571" parent="524" name="increment">
       <Comment>increment value</Comment>
       <NotNull>1</NotNull>
       <Position>5</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="549" parent="523" name="cache_size">
+    <column id="572" parent="524" name="cache_size">
       <NotNull>1</NotNull>
       <Position>6</Position>
       <StoredType>bigint(21) unsigned|0s</StoredType>
     </column>
-    <column id="550" parent="523" name="cycle_option">
+    <column id="573" parent="524" name="cycle_option">
       <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
       <NotNull>1</NotNull>
       <Position>7</Position>
       <StoredType>tinyint(1) unsigned|0s</StoredType>
     </column>
-    <column id="551" parent="523" name="cycle_count">
+    <column id="574" parent="524" name="cycle_count">
       <Comment>How many cycles have been done</Comment>
       <NotNull>1</NotNull>
       <Position>8</Position>
       <StoredType>bigint(21)|0s</StoredType>
     </column>
-    <column id="552" parent="524" name="DNI">
+    <column id="575" parent="525" name="DNI">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>char(9)|0s</StoredType>
     </column>
-    <column id="553" parent="524" name="APELLIDOS">
+    <column id="576" parent="525" name="APELLIDOS">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>varchar(32)|0s</StoredType>
     </column>
-    <column id="554" parent="524" name="CP">
+    <column id="577" parent="525" name="CP">
       <Position>3</Position>
       <StoredType>char(5)|0s</StoredType>
     </column>
-    <index id="555" parent="524" name="PRIMARY">
+    <index id="578" parent="525" name="PRIMARY">
       <ColNames>DNI</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="556" parent="524" name="PRIMARY">
+    <key id="579" parent="525" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="557" parent="525" name="DNI">
+    <column id="580" parent="526" name="DNI">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>char(9)|0s</StoredType>
     </column>
-    <column id="558" parent="525" name="APELLIDOS">
+    <column id="581" parent="526" name="APELLIDOS">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>varchar(32)|0s</StoredType>
     </column>
-    <column id="559" parent="525" name="CP">
+    <column id="582" parent="526" name="CP">
       <Position>3</Position>
       <StoredType>char(5)|0s</StoredType>
     </column>
-    <index id="560" parent="525" name="PRIMARY">
+    <index id="583" parent="526" name="PRIMARY">
       <ColNames>DNI</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="561" parent="525" name="PRIMARY">
+    <key id="584" parent="526" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="562" parent="526" name="NUM_FACTURA">
+    <column id="585" parent="527" name="NUM_FACTURA">
       <AutoIncrement>1</AutoIncrement>
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>int(11)|0s</StoredType>
     </column>
-    <column id="563" parent="526" name="DNI_CLIENTE">
+    <column id="586" parent="527" name="DNI_CLIENTE">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>char(9)|0s</StoredType>
     </column>
-    <foreign-key id="564" parent="526" name="FK_FACT_DNI_CLIENTES">
+    <foreign-key id="587" parent="527" name="FK_FACT_DNI_CLIENTES">
       <ColNames>DNI_CLIENTE</ColNames>
       <RefColNames>DNI</RefColNames>
       <RefTableName>clientes</RefTableName>
     </foreign-key>
-    <index id="565" parent="526" name="PRIMARY">
+    <index id="588" parent="527" name="PRIMARY">
       <ColNames>NUM_FACTURA</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <index id="566" parent="526" name="FK_FACT_DNI_CLIENTES">
+    <index id="589" parent="527" name="FK_FACT_DNI_CLIENTES">
       <ColNames>DNI_CLIENTE</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="567" parent="526" name="PRIMARY">
+    <key id="590" parent="527" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="568" parent="527" name="NUM_FACTURA">
+    <column id="591" parent="528" name="NUM_FACTURA">
       <NotNull>1</NotNull>
       <Position>1</Position>
       <StoredType>int(11)|0s</StoredType>
     </column>
-    <column id="569" parent="527" name="LINEA_FACTURA">
+    <column id="592" parent="528" name="LINEA_FACTURA">
       <NotNull>1</NotNull>
       <Position>2</Position>
       <StoredType>smallint(6)|0s</StoredType>
     </column>
-    <column id="570" parent="527" name="CONCEPTO">
+    <column id="593" parent="528" name="CONCEPTO">
       <NotNull>1</NotNull>
       <Position>3</Position>
       <StoredType>varchar(32)|0s</StoredType>
     </column>
-    <column id="571" parent="527" name="CANTIDAD">
+    <column id="594" parent="528" name="CANTIDAD">
       <NotNull>1</NotNull>
       <Position>4</Position>
       <StoredType>smallint(6)|0s</StoredType>
     </column>
-    <foreign-key id="572" parent="527" name="FK_LINEAFACT_NUM_FACTURA">
+    <foreign-key id="595" parent="528" name="FK_LINEAFACT_NUM_FACTURA">
       <ColNames>NUM_FACTURA</ColNames>
       <RefColNames>NUM_FACTURA</RefColNames>
       <RefTableName>facturas</RefTableName>
     </foreign-key>
-    <index id="573" parent="527" name="PRIMARY">
+    <index id="596" parent="528" name="PRIMARY">
       <ColNames>NUM_FACTURA
 LINEA_FACTURA</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="574" parent="527" name="PRIMARY">
+    <key id="597" parent="528" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
-    <column id="575" parent="528" name="id">
+    <column id="598" parent="529" name="id">
       <NotNull>1</NotNull>
       <Position>1</Position>
-      <StoredType>int(11)|0s</StoredType>
+      <StoredType>bigint(20)|0s</StoredType>
     </column>
-    <column id="576" parent="528" name="userMessage">
+    <column id="599" parent="529" name="name">
       <Position>2</Position>
       <StoredType>varchar(255)|0s</StoredType>
     </column>
-    <column id="577" parent="528" name="userName">
-      <Position>3</Position>
-      <StoredType>varchar(255)|0s</StoredType>
-    </column>
-    <index id="578" parent="528" name="PRIMARY">
+    <index id="600" parent="529" name="PRIMARY">
       <ColNames>id</ColNames>
       <Type>btree</Type>
       <Unique>1</Unique>
     </index>
-    <key id="579" parent="528" name="PRIMARY">
+    <key id="601" parent="529" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="602" parent="530" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="603" parent="530" name="name">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="604" parent="530" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="605" parent="530" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="606" parent="531" name="Person1_id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="607" parent="531" name="phones_id">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <foreign-key id="608" parent="531" name="FK1ijxoxdxvdbr6sq5m45r48wel">
+      <ColNames>Person1_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>person1</RefTableName>
+    </foreign-key>
+    <foreign-key id="609" parent="531" name="FKewcvdpmlunk7b0o7bevh80f0s">
+      <ColNames>phones_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>phone1</RefTableName>
+    </foreign-key>
+    <index id="610" parent="531" name="UKha33qb2tcy1q9lpohkiqx0iep">
+      <ColNames>phones_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="611" parent="531" name="FK1ijxoxdxvdbr6sq5m45r48wel">
+      <ColNames>Person1_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="612" parent="531" name="UKha33qb2tcy1q9lpohkiqx0iep">
+      <UnderlyingIndexName>UKha33qb2tcy1q9lpohkiqx0iep</UnderlyingIndexName>
+    </key>
+    <column id="613" parent="532" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="614" parent="532" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="615" parent="532" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="616" parent="532" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="617" parent="532" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="618" parent="532" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="619" parent="532" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="620" parent="532" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="621" parent="533" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="622" parent="533" name="name">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="623" parent="533" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="624" parent="533" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="625" parent="534" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="626" parent="534" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="627" parent="534" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="628" parent="534" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="629" parent="534" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="630" parent="534" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="631" parent="534" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="632" parent="534" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="633" parent="535" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="634" parent="535" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="635" parent="535" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="636" parent="535" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="637" parent="535" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="638" parent="535" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="639" parent="535" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="640" parent="535" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="641" parent="536" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="642" parent="536" name="person_id">
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="643" parent="536" name="number">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <foreign-key id="644" parent="536" name="PERSON_ID_FK">
+      <ColNames>person_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>person</RefTableName>
+    </foreign-key>
+    <index id="645" parent="536" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="646" parent="536" name="PERSON_ID_FK">
+      <ColNames>person_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="647" parent="536" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="648" parent="537" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="649" parent="537" name="number">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="650" parent="537" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="651" parent="537" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="652" parent="538" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="653" parent="538" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="654" parent="538" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="655" parent="538" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="656" parent="538" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="657" parent="538" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="658" parent="538" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="659" parent="538" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="660" parent="539" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="661" parent="539" name="person2_id">
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="662" parent="539" name="number">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <foreign-key id="663" parent="539" name="FKq3be4xqao2kc3dvd1qcxii2qa">
+      <ColNames>person2_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>person2</RefTableName>
+    </foreign-key>
+    <index id="664" parent="539" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="665" parent="539" name="UKd7l6ef637oy30hmhoabhmuu9c">
+      <ColNames>number</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="666" parent="539" name="FKq3be4xqao2kc3dvd1qcxii2qa">
+      <ColNames>person2_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="667" parent="539" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <key id="668" parent="539" name="UKd7l6ef637oy30hmhoabhmuu9c">
+      <UnderlyingIndexName>UKd7l6ef637oy30hmhoabhmuu9c</UnderlyingIndexName>
+    </key>
+    <column id="669" parent="540" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="670" parent="540" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="671" parent="540" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="672" parent="540" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="673" parent="540" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="674" parent="540" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="675" parent="540" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="676" parent="540" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="677" parent="541" name="details_id">
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="678" parent="541" name="id">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="679" parent="541" name="number">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <foreign-key id="680" parent="541" name="FK9qd6hn3mo8w5wpktf2kfdpsc2">
+      <ColNames>details_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>phonedetails</RefTableName>
+    </foreign-key>
+    <index id="681" parent="541" name="UK1cdl9y1mn39uf3w2ohf8x6njh">
+      <ColNames>details_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="682" parent="541" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="683" parent="541" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <key id="684" parent="541" name="UK1cdl9y1mn39uf3w2ohf8x6njh">
+      <UnderlyingIndexName>UK1cdl9y1mn39uf3w2ohf8x6njh</UnderlyingIndexName>
+    </key>
+    <column id="685" parent="542" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="686" parent="542" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="687" parent="542" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="688" parent="542" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="689" parent="542" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="690" parent="542" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="691" parent="542" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="692" parent="542" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="693" parent="543" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="694" parent="543" name="number">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="695" parent="543" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="696" parent="543" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="697" parent="544" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="698" parent="544" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="699" parent="544" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="700" parent="544" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="701" parent="544" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="702" parent="544" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="703" parent="544" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="704" parent="544" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="705" parent="545" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="706" parent="545" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="707" parent="545" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="708" parent="545" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="709" parent="545" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="710" parent="545" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="711" parent="545" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="712" parent="545" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="713" parent="546" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="714" parent="546" name="provider">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="715" parent="546" name="technology">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="716" parent="546" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="717" parent="546" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="718" parent="547" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="719" parent="547" name="phone4_id">
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="720" parent="547" name="provider">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="721" parent="547" name="technology">
+      <Position>4</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <foreign-key id="722" parent="547" name="FK7y7tq6qdf7khx0mg7nk126pr8">
+      <ColNames>phone4_id</ColNames>
+      <RefColNames>id</RefColNames>
+      <RefTableName>phone4</RefTableName>
+    </foreign-key>
+    <index id="723" parent="547" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="724" parent="547" name="UK59yyylk0tmc29r4n1qgy7ix1b">
+      <ColNames>phone4_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="725" parent="547" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <key id="726" parent="547" name="UK59yyylk0tmc29r4n1qgy7ix1b">
+      <UnderlyingIndexName>UK59yyylk0tmc29r4n1qgy7ix1b</UnderlyingIndexName>
+    </key>
+    <column id="727" parent="548" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="728" parent="548" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="729" parent="548" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="730" parent="548" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="731" parent="548" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="732" parent="548" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="733" parent="548" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="734" parent="548" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="735" parent="549" name="next_not_cached_value">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="736" parent="549" name="minimum_value">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="737" parent="549" name="maximum_value">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="738" parent="549" name="start_value">
+      <Comment>start value when sequences is created or value if RESTART is used</Comment>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="739" parent="549" name="increment">
+      <Comment>increment value</Comment>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="740" parent="549" name="cache_size">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(21) unsigned|0s</StoredType>
+    </column>
+    <column id="741" parent="549" name="cycle_option">
+      <Comment>0 if no cycles are allowed, 1 if the sequence should begin a new cycle when maximum_value is passed</Comment>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="742" parent="549" name="cycle_count">
+      <Comment>How many cycles have been done</Comment>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(21)|0s</StoredType>
+    </column>
+    <column id="743" parent="550" name="id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="744" parent="550" name="userMessage">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="745" parent="550" name="userName">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="746" parent="550" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="747" parent="550" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="748" parent="551" name="ID">
+      <AutoIncrement>1</AutoIncrement>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="749" parent="551" name="USERMESSAGE">
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="750" parent="551" name="USERNAME">
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="751" parent="551" name="PRIMARY">
+      <ColNames>ID</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="752" parent="551" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <Primary>1</Primary>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>

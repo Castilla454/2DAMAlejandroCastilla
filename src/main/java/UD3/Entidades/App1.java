@@ -1,4 +1,4 @@
-package UD3;
+package UD3.Entidades;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

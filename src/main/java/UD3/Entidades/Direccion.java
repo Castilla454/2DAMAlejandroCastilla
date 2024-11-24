@@ -1,4 +1,4 @@
-package UD3;
+package UD3.Entidades;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

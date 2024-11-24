@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/Address2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/App6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/BiDireccionales/Person4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/UniDireccionales/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/UniDireccionales/App5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToMany/UniDireccionales/Person3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToOne/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToOne/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/ManyToOne/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/BiDireccionales/App2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/BiDireccionales/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/BiDireccionales/Phone2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/UniDireccionales/App1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/UniDireccionales/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToMany/UniDireccionales/Phone1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/BiDireccionales/App4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/BiDireccionales/Phone4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/BiDireccionales/PhoneDetails2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/UniDireccionales/App3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/UniDireccionales/Phone3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Asociaciones/OneToOne/UniDireccionales/PhoneDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Entidades/App1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Entidades/Direccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/User1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Entidades/User1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UD3/App1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UD3/Direccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UD3/User1.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +56,12 @@
     &quot;assignee&quot;: &quot;Castilla454&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Castilla454/2DAMAlejandroCastilla.git&quot;,
-    &quot;accountId&quot;: &quot;49978e25-5c18-4bfd-b2b8-ca3cb425149e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Castilla454/2DAMAlejandroCastilla.git",
+    "accountId": "54456d8c-caf3-4650-9d88-93a86f1ac544"
   }
-}</component>
+}]]></component>
   <component name="JvmLoggingSettingsStorage">
     <option name="loggerId" value="Log4j2" />
   </component>
@@ -50,6 +80,10 @@
     "Application.ActividadCuatro.executor": "Run",
     "Application.App.executor": "Run",
     "Application.App1.executor": "Run",
+    "Application.App2.executor": "Run",
+    "Application.App3.executor": "Run",
+    "Application.App4.executor": "Run",
+    "Application.App5.executor": "Run",
     "Application.CrearTablaFactura.executor": "Run",
     "Application.Ejemplo1_Conexion.executor": "Run",
     "Application.Ejemplo2_Conexion.executor": "Run",
@@ -94,8 +128,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -125,6 +159,7 @@
       <workItem from="1727432579638" duration="5277000" />
       <workItem from="1728555715304" duration="5928000" />
       <workItem from="1728890379274" duration="5411000" />
+      <workItem from="1732444201612" duration="7981000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -390,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732359071686</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732444245703</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1732444245703</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

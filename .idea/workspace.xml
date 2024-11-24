@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change beforePath="$PROJECT_DIR$/.idea/META-INF/orm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/orm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-    </list>
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -385,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732358907870</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732359071686</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732359071686</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

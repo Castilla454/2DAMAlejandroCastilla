@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Bags/App9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Bags/Person6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Lists/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Lists/Person7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Sets/HashSets/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Sets/HashSets/Person8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Sets/SortedSets/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Sets/SortedSets/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/empresa.iUA1nw.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/empresa.iUA1nw.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ejemplo_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/EjercicioOcho/SW.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/EjercicioOcho/characters.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/EjercicioDos/ficheros/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/EjercicioDos/ficheros/fichero2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/EjercicioDos/ficheros/fichero3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/EjercicioDos/ficheros/mergeado.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/copiagoku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/fichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/goku.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/modulosguardados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/modulosguardados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/properties.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/properties2.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/FicherosJava/sinNumeros_copiafichero1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/Ficheros/adios.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/Ficheros/hello.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/Ficheros/hola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/FicherosEjerTres/definitivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/FicherosEjerTres/ejemplo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/PracticaExamen/junte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/languages/mensajes_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/UD1/languages/mensajes_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +136,7 @@
       <workItem from="1732190722236" duration="248000" />
       <workItem from="1732191784775" duration="98000" />
       <workItem from="1732277210545" duration="1121000" />
-      <workItem from="1732525767100" duration="2250000" />
+      <workItem from="1732525767100" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -479,7 +434,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732191793147</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732528860945</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1732528860945</updated>
+    </task>
+    <task id="LOCAL-00039" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732528870805</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1732528870805</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Embedd/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Embedd/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/AutorLibro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/AutorLibroId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment=":loud_sound: CHAT?????">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +153,7 @@
       <workItem from="1732783370282" duration="2080000" />
       <workItem from="1732785516769" duration="77000" />
       <workItem from="1732785704819" duration="1358000" />
-      <workItem from="1732789146030" duration="4409000" />
+      <workItem from="1732789146030" duration="6035000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -526,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732789214839</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary=":loud_sound: CHAT?????">
+      <option name="closed" value="true" />
+      <created>1732794362475</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1732794362475</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +542,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adasd" />
-    <option name="LAST_COMMIT_MESSAGE" value="adasd" />
+    <MESSAGE value=":loud_sound: CHAT?????" />
+    <option name="LAST_COMMIT_MESSAGE" value=":loud_sound: CHAT?????" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

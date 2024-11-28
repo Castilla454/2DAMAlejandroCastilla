@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Embedd/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Embedd/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/AutorLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/AutorLibroId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/GenEsquema/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2DAMAlejandroCastilla.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +27,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="com.intellij.jpb.JpaEntity" />
       </list>
     </option>
   </component>
@@ -44,47 +58,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ActividadCinco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ActividadCuatro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CrearTablaFactura.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo1_Conexion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejemplo2_Conexion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploCommit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploInsertar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploInsertarComplejo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjemploMostrar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioCinco.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioCuatro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioDos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioOcho.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioSeis.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioTres.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioUno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JDBC_clave_autogenerada.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JDBC_create_table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ResourceBundleExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alumno/Downloads/log4j-core-2.23.1.jar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.08071025&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActividadCinco.executor": "Run",
+    "Application.ActividadCuatro.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.App9.executor": "Run",
+    "Application.CrearTablaFactura.executor": "Run",
+    "Application.Ejemplo1_Conexion.executor": "Run",
+    "Application.Ejemplo2_Conexion.executor": "Run",
+    "Application.EjemploCommit.executor": "Run",
+    "Application.EjemploInsertar.executor": "Run",
+    "Application.EjemploInsertarComplejo.executor": "Run",
+    "Application.EjemploMostrar.executor": "Run",
+    "Application.EjercicioCinco.executor": "Run",
+    "Application.EjercicioCuatro.executor": "Run",
+    "Application.EjercicioDos.executor": "Run",
+    "Application.EjercicioOcho.executor": "Run",
+    "Application.EjercicioSeis.executor": "Run",
+    "Application.EjercicioTres.executor": "Run",
+    "Application.EjercicioUno.executor": "Run",
+    "Application.JDBC_clave_autogenerada.executor": "Run",
+    "Application.JDBC_create_table.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ResourceBundleExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alumno/Downloads/log4j-core-2.23.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.08071025",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alumno\IdeaProjects\2DAMAlejandroCastilla\src\main\resources" />
@@ -145,6 +164,7 @@
       <workItem from="1732783370282" duration="2080000" />
       <workItem from="1732785516769" duration="77000" />
       <workItem from="1732785704819" duration="1358000" />
+      <workItem from="1732789146030" duration="4409000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -498,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732787086451</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732789214839</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1732789214839</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

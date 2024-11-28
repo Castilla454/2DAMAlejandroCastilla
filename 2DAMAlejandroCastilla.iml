@@ -20,7 +20,8 @@
         <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
           <factory-entry name="2DAMAlejandroCastilla" />
-          <factory-entry name="colecciones" />
+          <factory-entry name="colecciones" value="bd6354be-bb13-4092-a563-7357d70e1c5c" />
+          <factory-entry name="creacionEsquema" value="75fb1fab-99fe-422f-baf2-8acc098aafcf" />
           <factory-entry name="default" />
         </datasource-mapping>
         <naming-strategy-map />

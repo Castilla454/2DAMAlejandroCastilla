@@ -29,6 +29,6 @@ public class App {
         em.close();
         emf.close();
 
- //TIP hola amigos
+
     }
 }

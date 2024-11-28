@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/empresa.iUA1nw.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bd6354be-bb13-4092-a563-7357d70e1c5c/storage_v2/_src_/schema/empresa.iUA1nw.zip" afterDir="false" />
-    </list>
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +135,7 @@
       <workItem from="1732191784775" duration="98000" />
       <workItem from="1732277210545" duration="1121000" />
       <workItem from="1732525767100" duration="3106000" />
-      <workItem from="1732538949446" duration="726000" />
+      <workItem from="1732538949446" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -467,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732538960391</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732540066854</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1732540066854</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

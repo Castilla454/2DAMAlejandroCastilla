@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,8 +94,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
       </set>
     </attachedChunks>
   </component>
@@ -147,6 +144,7 @@
       <workItem from="1732783291447" duration="69000" />
       <workItem from="1732783370282" duration="2080000" />
       <workItem from="1732785516769" duration="77000" />
+      <workItem from="1732785704819" duration="1358000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -492,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732780927801</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732787086451</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1732787086451</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

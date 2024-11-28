@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd" />
+    <list default="true" id="97d82dac-894f-4b2b-aeee-f8a00e50d53a" name="Changes" comment="adasd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,9 @@
     &quot;accountId&quot;: &quot;49978e25-5c18-4bfd-b2b8-ca3cb425149e&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/UD3/Avanzado/Colecciones/Maps/App.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -78,7 +84,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.08071025&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -136,6 +142,11 @@
       <workItem from="1732277210545" duration="1121000" />
       <workItem from="1732525767100" duration="3106000" />
       <workItem from="1732538949446" duration="739000" />
+      <workItem from="1732780657434" duration="2153000" />
+      <workItem from="1732783053984" duration="221000" />
+      <workItem from="1732783291447" duration="69000" />
+      <workItem from="1732783370282" duration="2080000" />
+      <workItem from="1732785516769" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="adasd">
       <option name="closed" value="true" />
@@ -473,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732540066854</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="adasd">
+      <option name="closed" value="true" />
+      <created>1732780927800</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1732780927801</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +519,7 @@
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/UD1/EjercicioOcho/Personaje.java</url>
           <line>16</line>
-          <properties field="birth_year" class="UD1.EjercicioOcho.Personaje" />
+          <properties field="films" class="UD1.EjercicioOcho.Personaje" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
